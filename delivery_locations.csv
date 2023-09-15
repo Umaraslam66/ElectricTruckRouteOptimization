@@ -1,0 +1,4 @@
+name,latitude,longitude,demand,window_start,window_end
+Location 1,59.3293,18.0686,20,8,12
+Location 2,57.7089,11.9746,30,10,14
+Location 3,55.6049,13.0038,15,9,13
